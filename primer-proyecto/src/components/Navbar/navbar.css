@@ -1,0 +1,24 @@
+.container{
+display: flex;
+width: 100%;
+
+}
+.navPrincipal{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #203586;
+  padding: 10px;
+}
+.logo{
+  color: #fff;
+  font-size: 24px;
+  text-decoration: none;
+}
+.search{
+  font-size: 20px;
+}
+.cart{
+  color:#fff;
+  font-size: 24px;
+}
